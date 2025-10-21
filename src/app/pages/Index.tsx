@@ -1,8 +1,8 @@
-import Hero from "@/components/Hero";
-import ProblemSection from "@/components/ProblemSection";
-import MapSection from "@/components/MapSection";
-import BenefitsSection from "@/components/BenefitsSection";
-import Footer from "@/components/Footer";
+import Hero from "@/app/components/Hero";
+import ProblemSection from "@/app/components/ProblemSection";
+import MapSection from "@/app/components/MapSection";
+import BenefitsSection from "@/app/components/BenefitsSection";
+import Footer from "@/app/components/Footer";
 
 const Index = () => {
   return (
