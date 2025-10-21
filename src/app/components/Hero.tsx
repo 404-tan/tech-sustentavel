@@ -65,17 +65,10 @@ const Hero = () => {
               <div className="text-white/80">Municípios Atendidos</div>
             </div>
             <div className="bg-white/10 backdrop-blur-md rounded-2xl p-6 border border-white/20">
-              <div className="text-4xl font-bold text-white mb-2">11.6kg</div>
+              <div className="text-4xl font-bold text-white mb-2">11.4kg</div>
               <div className="text-white/80">E-lixo por Habitante/Ano</div>
             </div>
           </div>
-        </div>
-      </div>
-
-      {/* Scroll indicator */}
-      <div className="absolute bottom-8 left-1/2 -translate-x-1/2 animate-bounce">
-        <div className="w-6 h-10 border-2 border-white/50 rounded-full flex items-start justify-center p-2">
-          <div className="w-1 h-3 bg-white/50 rounded-full" />
         </div>
       </div>
     </section>

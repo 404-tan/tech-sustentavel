@@ -4,7 +4,7 @@ import { setOptions, importLibrary } from '@googlemaps/js-api-loader';
 import { MapPin, Search } from 'lucide-react';
 import { Input } from './ui/input';
 import { Card } from './ui/card';
-import { getCollectionPoints } from '../actions'; // <--- IMPORTA A SERVER ACTION
+import { getCollectionPoints } from '../actions'; 
 
 // Interface para os dados do local (vinda da nossa action)
 interface FoundPlace {

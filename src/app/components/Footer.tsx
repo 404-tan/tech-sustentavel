@@ -51,9 +51,8 @@ const Footer = () => {
               <h3 className="font-bold text-lg mb-4">Fontes</h3>
               <ul className="space-y-2 text-background/70 text-sm">
                 <li>Ministério do Meio Ambiente (2022)</li>
-                <li>Sustentare (2024)</li>
-                <li>Correio Braziliense (2024)</li>
-                <li>FAEX (2023)</li>
+                <li>The Global E-Waste Statistics Partnership (2022)</li>
+                <li>ONU (2024)</li>
               </ul>
             </div>
           </div>
@@ -67,16 +66,10 @@ const Footer = () => {
               </p>
               <div className="flex gap-4">
                 <a
-                  href="#"
+                  href="https://github.com/404-tan/tech-sustentavel"
                   className="w-10 h-10 bg-background/10 rounded-full flex items-center justify-center hover:bg-primary transition-colors"
                 >
                   <Github className="w-5 h-5" />
-                </a>
-                <a
-                  href="#"
-                  className="w-10 h-10 bg-background/10 rounded-full flex items-center justify-center hover:bg-primary transition-colors"
-                >
-                  <Mail className="w-5 h-5" />
                 </a>
               </div>
             </div>

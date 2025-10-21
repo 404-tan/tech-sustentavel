@@ -38,8 +38,8 @@ const ProblemSection = () => {
               Um Problema Ambiental Urgente
             </h2>
             <p className="text-xl text-muted-foreground max-w-3xl mx-auto leading-relaxed">
-              O Brasil é o segundo maior gerador de lixo eletrônico das Américas, 
-              produzindo cerca de <span className="text-accent font-semibold">11.6kg por habitante ao ano</span>. 
+              O Brasil é o quinto maior gerador de lixo eletrônico do mundo, 
+              produzindo cerca de <span className="text-accent font-semibold">11.4kg por habitante ao ano</span>. 
               O descarte inadequado representa uma ameaça real ao meio ambiente e à saúde pública.
             </p>
           </div>
